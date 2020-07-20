@@ -1,2 +1,2 @@
 # hello-world
-Repositorio de prueba para mi Hola Miundo
+Repositorio de prueba para mi Hola Mundo
